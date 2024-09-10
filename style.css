@@ -195,6 +195,9 @@ nav .nav-menu .menu-item{
   color: var(--primary-font-color);
   font-weight: 700;
 }
+.secendary-navbar .secendary-navbar-menu a:hover{
+  color: var(--primary-color);
+}
 
 .section-header{
   font-weight: 700;
